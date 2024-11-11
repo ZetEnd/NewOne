@@ -3,6 +3,7 @@ MASTER
 
 FIGHT 1ST BRANCH master
 
+FIGHT 2ST BRANCH slave
 1st changing
 
 2st update for new branch
